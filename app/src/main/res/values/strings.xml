@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ungman</string>
+    <string name="figur">Геометрические фигуры</string>
+    <string name="start">Начать</string>
+    <string name="vibor">Выберите фигуру</string>
+    <string name="dann">Выберите данные для расчета</string>
+    <string name="vipolnit">Выполните расчет</string>
+    <string name="result">Результат</string>
+    <string name="register">На Главную</string>
+    <string name="namefig">Название выбранной фигуры</string>
+    <string name="inputA">Введите а</string>
+    <string name="inputB">Введите b</string>
+    <string name="choose">Выберите</string>
+</resources>
